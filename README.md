@@ -18,10 +18,10 @@ An AI chatbot that reads a PDF from a given URL, stores the content in a vector 
 ## 🛠️ Technologies Used
 
 - Python 3.8+
-- [SentenceTransformers]
-- [ChromaDB]
-- [PyPDF2]
-- [Google Generative AI (Gemini)]
-- [Requests]
+- SentenceTransformers
+- ChromaDB
+- PyPDF2
+- Google Generative AI (Gemini)
+- Requests
 
 ---
